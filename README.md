@@ -390,7 +390,7 @@ Advanced geographical visualizations.
 Predictive business analytics.
 
 Screenshot/Demo:
-https://github.com/Ritishsharma2418/E-commerce-Dashboard/blob/main/E-commerce%20Dashboard.png
+
 
 <img width="1279" height="714" alt="E-commerce Dashboard" src="https://github.com/user-attachments/assets/f79e2db7-d139-4cad-bcd7-385dfeeffc76" />
 
